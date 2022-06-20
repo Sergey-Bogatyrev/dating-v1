@@ -1,0 +1,21 @@
+@media (max-width: 900px) {
+  main {
+    .contacts {
+      .hero {
+        bottom: 200px;
+      }
+      .thumbup {
+        top: 30px;
+        left: 150px;
+      }
+      .heart {
+        top: 40px;
+        left: 240px;
+      }
+      .calendar {
+        top: 45px;
+        left: 320px;
+      }
+    }
+  }
+}

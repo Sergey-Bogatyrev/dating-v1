@@ -1,0 +1,38 @@
+@media (max-width: 1312px) {
+  .container {
+    padding: 0 5px;
+  }
+  main {
+    .contacts {
+      .clients {
+        bottom: 290px;
+        .file {
+          width: 393px;
+          .file-box {
+            .file-text {
+              margin-left: -50px;
+            }
+          }
+        }
+      }
+      .card {
+        top: auto;
+        left: 0;
+        bottom: 10px;
+        right: auto;
+      }
+      .hero {
+        left: 0px;
+      }
+      .ringstone {
+        left: 60px;
+      }
+      .heart {
+        left: 540px;
+      }
+      .calendar {
+        left: 560px;
+      }
+    }
+  }
+}
